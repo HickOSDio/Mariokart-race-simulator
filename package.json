@@ -1,0 +1,16 @@
+{
+  "name": "meu-projeto-node",
+  "version": "1.0.0",
+  "description": "projeto node da dio",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo BRASILIS!"
+  },
+  "keywords": [
+    "dio",
+    "javascript"
+  ],
+  "author": "hickos",
+  "license": "ISC"
+}
