@@ -1,16 +1,12 @@
 {
-  "name": "meu-projeto-node",
+  "name": "aula",
   "version": "1.0.0",
-  "description": "projeto node da dio",
-  "main": "teste.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "open": "echo BRASILIS!"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "dio",
-    "javascript"
-  ],
-  "author": "hickos",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
